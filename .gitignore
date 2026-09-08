@@ -1,0 +1,8 @@
+# Git Ignore Configuration
+notebook/
+notebook
+
+# Temporary lock & swap files
+.~lock.*
+*.tmp
+*.swp
